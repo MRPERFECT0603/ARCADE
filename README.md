@@ -1,4 +1,4 @@
-# XBEAT Music Player backend manager
+#ARCADE
 
 ## Description :
 A CLI program which tokens initially and then allow you to play different games and each game reward you different amount to tokens and finally print the data of initial and final tokens in a log file.

@@ -7,7 +7,7 @@ A CLI program which tokens initially and then allow you to play different games 
 - Has multiple games to play. 
 - Top game is tic-tac-toe.
 - Each game consists of different levels and each level has different reward amount and different entry fee.
-- No one can play if your token count is less than 1000.
+- No one can play if your token count is less than 100.
 - Fully structured interface to guide the user in each game.
 - Makes a log file which contains the userId,intial token count,remaining token count.
 
